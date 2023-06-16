@@ -1,0 +1,17 @@
+11
+Budisa;08-APR-1991;Roni Putra
+Budiman Surya;30-JUN-1984;Sri Nuryani
+Rudi Jaya;01-FEB-1957;Bambang Soediono
+Budiyanti;09-APR-1991;Rudi Jaya
+John Marlin;12-MEI-2009;Budiyanti
+Sri Nuryani;20-NOV-1963;Bambang Soediono
+Budiyanto;25-MAR-1987;Rudi Jaya
+Bambang Soediono;15-DES-1932;
+Budi Putra;05-MEI-1988;Roni Putra
+Roniman Janu;01-JAN-2007;Budiyanti
+Roni Putra;19-OKT-1977;Bambang Soediono
+4
+1 anggota keluarga tertua dari generasi ke 2
+3 anggota keluarga termuda dari generasi ke 3
+2 anggota keluarga tertua dari generasi ke 5
+1 anggota keluarga termuda dari generasi ke 3

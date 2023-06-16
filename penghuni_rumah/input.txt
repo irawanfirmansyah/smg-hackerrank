@@ -1,0 +1,15 @@
+5
+13
+penghuni dengan pekerjaan penulis tinggal di sebelah kanan penghuni dengan pekerjaan pedagang
+penghuni dengan peliharaan hamster tinggal di sebelah kiri penghuni dengan peliharaan anjing
+penghuni dengan asal jakarta memiliki nama amir
+penghuni dengan pekerjaan polisi tinggal di sebelah kiri penghuni dengan pekerjaan pedagang
+penghuni dengan nama wati memiliki peliharaan hamster
+penghuni dengan pekerjaan pedagang memiliki asal jakarta
+penghuni dengan nama rama tinggal di sebelah kanan penghuni dengan umur 25
+penghuni dengan pekerjaan pedagang tinggal di sebelah kanan penghuni dengan nama sri
+penghuni dengan nama iwan tinggal di sebelah kanan penghuni dengan nama wati
+penghuni dengan pekerjaan polisi memiliki umur 47
+penghuni dengan nama wati memiliki pekerjaan penulis
+penghuni dengan umur 25 memiliki peliharaan anjing
+penghuni dengan warna putih tinggal di sebelah kanan penghuni dengan nama iwan
